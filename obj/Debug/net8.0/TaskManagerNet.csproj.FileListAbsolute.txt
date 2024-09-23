@@ -1,0 +1,14 @@
+/Users/stevemacfarlane/Sites/TaskManagerNet/bin/Debug/net8.0/TaskManagerNet
+/Users/stevemacfarlane/Sites/TaskManagerNet/bin/Debug/net8.0/TaskManagerNet.deps.json
+/Users/stevemacfarlane/Sites/TaskManagerNet/bin/Debug/net8.0/TaskManagerNet.runtimeconfig.json
+/Users/stevemacfarlane/Sites/TaskManagerNet/bin/Debug/net8.0/TaskManagerNet.dll
+/Users/stevemacfarlane/Sites/TaskManagerNet/bin/Debug/net8.0/TaskManagerNet.pdb
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/TaskManagerNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/TaskManagerNet.AssemblyInfoInputs.cache
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/TaskManagerNet.AssemblyInfo.cs
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/TaskManagerNet.csproj.CoreCompileInputs.cache
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/TaskManagerNet.dll
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/refint/TaskManagerNet.dll
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/TaskManagerNet.pdb
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/TaskManagerNet.genruntimeconfig.cache
+/Users/stevemacfarlane/Sites/TaskManagerNet/obj/Debug/net8.0/ref/TaskManagerNet.dll
